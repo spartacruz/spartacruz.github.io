@@ -1,0 +1,8 @@
+front portfolio : 
+bisa variasi sih..
+landscape : 
+portrait : 720 x 1080
+
+
+
+carousel portfolio detail : 1200 x 695px

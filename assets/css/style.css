@@ -745,6 +745,7 @@ section {
   line-height: 24px;
   font-size: 14px;
   margin-bottom: 0;
+  color: transparent;
 }
 .services .icon-box:hover {
   border-color: #fff;
